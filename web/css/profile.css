@@ -1,0 +1,21 @@
+body {
+    padding-top: 67px;
+    overflow: auto;
+    font-family: "Lato", sans-serif; 
+    background-color: #F3F5F6;
+    
+}
+.color{
+    color: white!important;
+}
+
+#content{
+    padding: 10px 40px;
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid #AAA;
+    overflow: auto;
+}
+#content div{
+    margin: 10px 0;
+}

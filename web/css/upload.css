@@ -1,0 +1,44 @@
+body {
+    padding-top: 80px;
+    font-family: "Lato", sans-serif;
+    background-color: #F3F5F6;
+    overflow: auto;
+   
+}
+#content{
+    background-color: rgba(211, 211, 211, 0.3);
+    margin: auto;
+    border: 1px solid #D2D2D3; 
+    width: 400px; 
+    height: 500px;
+    padding: 30px;
+    padding-top: 50px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+#label{
+   margin-bottom: 30px; 
+   font-size: 17px;
+}
+
+#input{
+    
+   margin: auto;
+   background-color: #bcbcbc;
+   color: red;
+   opacity: 0.7;
+   
+}
+
+#upload{
+   margin-top: 20px;
+   background-color: #77c4e5;
+   color: white;
+   font-weight: bold;
+   padding: 5px 15px;
+}
+#upload:hover {
+    opacity: 0.8;
+}
